@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Theme.Sherlock">
+
+    <item
+        android:id="@+id/about"
+        style="@style/Theme.Sherlock"
+        android:showAsAction="always"
+        android:title="About" />
+    <item
+        android:id="@+id/computer"
+        style="@style/Theme.Sherlock"
+        android:icon="@drawable/computer"
+        android:showAsAction="ifRoom"
+        android:title="Computer" />
+
+    <item
+        android:id="@+id/email"
+        style="@style/Theme.Sherlock"
+        android:icon="@drawable/computer"
+        android:showAsAction="ifRoom|withText"
+        android:title="Email" />
+
+    <item
+        android:id="@+id/camera"
+        style="@style/Theme.Sherlock"
+        android:icon="@drawable/camera"
+        android:showAsAction="ifRoom|withText"
+        android:title="Camera" />
+</menu>

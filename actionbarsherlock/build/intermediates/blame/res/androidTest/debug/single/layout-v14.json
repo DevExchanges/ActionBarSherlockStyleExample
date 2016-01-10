@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ecpay/AndroidStudioProjects/ActionBarSherlockExample/actionbarsherlock/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_dropdown_item.xml",
+        "source": "/Users/ecpay/AndroidStudioProjects/ActionBarSherlockExample/actionbarsherlock/build/intermediates/bundles/debug/res/layout-v14/sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ecpay/AndroidStudioProjects/ActionBarSherlockExample/actionbarsherlock/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_item.xml",
+        "source": "/Users/ecpay/AndroidStudioProjects/ActionBarSherlockExample/actionbarsherlock/build/intermediates/bundles/debug/res/layout-v14/sherlock_spinner_item.xml"
+    }
+]
